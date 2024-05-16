@@ -13,7 +13,13 @@ https://github.com/spring98/crop-harvesting-robot/assets/92755385/da6ab712-456c-
 <img width="725" alt="스크린샷 2024-05-15 12 47 29" src="https://github.com/spring98/crop-harvesting-robot/assets/92755385/e0632018-4db9-442e-b126-3085bf0c9820">
 
 ## Kinematics
-<img width="721" alt="스크린샷 2024-05-15 12 47 59" src="https://github.com/spring98/crop-harvesting-robot/assets/92755385/b202c9f9-392e-4ec0-90fa-554d5309f04e">
+<p align="center">
+ <img width="40%" src="https://github.com/spring98/crop-harvesting-robot/assets/92755385/1f8e83d0-dd9e-4cf5-81e9-293918df6f53">
+ <img width="5%">
+ <img width="40%" src="https://github.com/spring98/crop-harvesting-robot/assets/92755385/7906ff4c-dc06-4081-b299-5cbb268cb522">
+</p>
+
+
 
 ### DH Parameter
 | $$i$$  | $$\alpha_{i-1}$$ | $$a_{i-1}$$ | $$d_i$$ | $$\theta_i$$ |
