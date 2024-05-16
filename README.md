@@ -218,3 +218,7 @@ https://github.com/spring98/crop-harvesting-robot/assets/92755385/da6ab712-456c-
 
 ## Trajectory
 https://github.com/spring98/crop-harvesting-robot/assets/92755385/9c3eec3f-53af-4a41-8089-c805c6e77ae9
+
+ros-moveit package 를 이용하여 타겟 위치를 선택하면 자동으로 Inverse Kinematics 의 솔루션을 계산하여 부드러운 Trajectory 를 얻을 수 있습니다. 해당 Trajectory 는 각 관절에 대한 theta 를 제공하므로 그대로 Manipulator 에서 사용가능합니다. 
+
+위의 동영상은 해당 작업을 나타냅니다.
